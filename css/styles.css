@@ -11,3 +11,18 @@ body, h1, h2 {
     padding: 0;
 }
 
+#container {
+    width: 50%;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: white;
+}
+
+/* change the color for the header, add some more css like pading, text-align and background-color */
+header {
+    background-color: whitesmoke;
+    padding: 20px 0;
+    text-align: center;
+    color: black;
+    margin: 0;
+}
